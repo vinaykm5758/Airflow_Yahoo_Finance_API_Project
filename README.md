@@ -24,14 +24,22 @@ This Repo contains details about Extracting Yahoo Finance API using Apache Airfl
 3. SQL
 
 **Code Files:**
-1. stock_market DAG: 
-2. stock_market Tasks: 
+1. stock_market DAG: https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/stock_market.py
+2. stock_market Tasks: https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/tasks.py
+
+**Final Airflow DAG Structure:**
+
+https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/Final_Stock_Market_Airflow_DAG.PNG
+
+**Slack Success Notification:**
+
+https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/Slack_Notification.PNG
 
 **Metabase Dashboard:**
-
-
+1. https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/Metabase_Stock_Market_Dashboard.pdf
 
 **Data Validations**
 1. Record Counts from the processed CSV file are compared in the Postgres Table and in Metabase Dashboard and counts matched
    
+https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/Postgres_Table_Counts_Validations.PNG
 
