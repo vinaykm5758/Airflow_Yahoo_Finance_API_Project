@@ -30,7 +30,7 @@ This Repo contains details about Extracting Yahoo Finance API using Apache Airfl
 1. stock_market DAG: https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/stock_market.py
 2. stock_market Tasks: https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/tasks.py
 
-**Final Airflow DAG Structure:**
+**Airflow DAG Structure:**
 
 ![image](https://github.com/user-attachments/assets/305c1864-3db0-4f40-9040-3b3646892407)
 
@@ -38,18 +38,14 @@ This Repo contains details about Extracting Yahoo Finance API using Apache Airfl
 
 ![image](https://github.com/user-attachments/assets/d6d61920-0fc7-478b-bbff-7d5c38bcf123)
 
-
-**Slack Success Notification:**
-
-![image](https://github.com/user-attachments/assets/80f5847e-d519-4f96-969e-cf4981e7c6d3)
-
-
 **Metabase Dashboard:**
 1. https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/Metabase_Stock_Market_Dashboard.pdf
 
 ![image](https://github.com/user-attachments/assets/1e9110ed-8098-4932-8554-330cd7370474)
 
+**Slack Success Notification:**
 
+![image](https://github.com/user-attachments/assets/80f5847e-d519-4f96-969e-cf4981e7c6d3)
 
 **Data Validations**
 1. Record Counts from the processed CSV file are compared in the Postgres Table and in Metabase Dashboard and counts matched. URL: https://github.com/vinaykm5758/Airflow_Yahoo_Finance_API_Project/blob/main/Postgres_Table_Counts_Validations.PNG
